@@ -117,19 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="textBoxMailIcerigi.Text" xml:space="preserve">
-    <value>Merhaba,
-Düzce Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Maltepe/Fındıklı bölgesinde ikamet ediyorum.  Üniversitemizin zorunlu yaz stajı kapsamında staj yapabileceğim uygun bir yer arıyorum.
-
-Web tasarım konusunda deneyimliyim. ASP.NET Framework MVC mimarisinde referans gösterebileceğim projelerim bulunmakta.
-C# Windows Forms Application ile masaüstü uygulama geliştirme ve Web browser programlayarak internetten otomasyon olarak veri çekimi, çekilen verileri veritabanına kaydetme tecrübem bulunmakta.
-MSSQL, T-SQL kullanarak web sitelerinde veritabanı kullanma deneyimim var.
-Amazon Web Service üzerindeki Windows sunucuları üstünde sıfırdan web siteleri public yayınlama deneyimim var.
-
-İlgilenirseniz bana dönüş yaparsanız çok sevinirim. Ek olarak CV’mi yolluyorum.
-Teşekkür ederim iyi çalışmalar.
-
-Erkan TEKİN
- </value>
-  </data>
 </root>

@@ -29,7 +29,6 @@ namespace MultipleMailSender
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.textBoxMail = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -134,7 +133,6 @@ namespace MultipleMailSender
             this.textBoxMailIcerigi.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
             this.textBoxMailIcerigi.Size = new System.Drawing.Size(553, 405);
             this.textBoxMailIcerigi.TabIndex = 10;
-            this.textBoxMailIcerigi.Text = resources.GetString("textBoxMailIcerigi.Text");
             // 
             // label5
             // 
@@ -160,7 +158,6 @@ namespace MultipleMailSender
             this.textBoxKonu.Name = "textBoxKonu";
             this.textBoxKonu.Size = new System.Drawing.Size(495, 20);
             this.textBoxKonu.TabIndex = 12;
-            this.textBoxKonu.Text = "Yazılım Stajyerliği Başvurusu";
             // 
             // label7
             // 
