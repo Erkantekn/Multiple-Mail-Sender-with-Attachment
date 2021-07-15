@@ -1,0 +1,10 @@
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\bin\Debug\MultipleMailSender.exe.config
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\bin\Debug\MultipleMailSender.exe
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\bin\Debug\MultipleMailSender.pdb
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\obj\Debug\MultipleMailSender.csprojAssemblyReference.cache
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\obj\Debug\MultipleMailSender.Form1.resources
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\obj\Debug\MultipleMailSender.Properties.Resources.resources
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\obj\Debug\MultipleMailSender.csproj.GenerateResource.cache
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\obj\Debug\MultipleMailSender.csproj.CoreCompileInputs.cache
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\obj\Debug\MultipleMailSender.exe
+E:\Projeler\Visual proje\MultipleMailSender\MultipleMailSender\obj\Debug\MultipleMailSender.pdb
